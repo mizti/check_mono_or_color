@@ -1,0 +1,7 @@
+pixiv_images
+pixiv_images/*
+.DS_Store
+.python-version
+temp
+temp/*
+client.json
